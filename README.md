@@ -2,3 +2,5 @@
 
 Repositório criado para um desafio de um bootcamp da DIO com o contexto dado sobre uma oficina. Este repositório conterá o projeto conceitual e o projeto lógico.
 
+⚠️⚠️ Este repositório ainda está em andamento. O Projeto Lógico ainda está sendo realizado.
+
